@@ -1,6 +1,8 @@
 const routeList = {
     game:"/game",
-    gameMenu:"/menu"
+    gameMenu:"/menu",
+    signIn:"/sign-in",
+    login:"/login"
 }
 
 export default routeList
